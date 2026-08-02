@@ -38,12 +38,3 @@
 | ✈️ **[SAC ANAC — Pipeline ETL & Análise](https://github.com/jdias999/aviation-complaints-analytics-pipeline)** | 🏗️ **[Data Warehouse & Medallion Arch](https://github.com/jdias999/data_warehouse_jobs)** | 🧪 **[Data Engineering Lab](https://github.com/jdias999/data_engineer_lab)** |
 | :--- | :--- | :--- |
 | **Pipeline ponta a ponta de processamento de dados do SAC da ANAC.** Limpeza, padronização tabular com Python (Pandas) e validação de regras de negócio focadas em SLAs de atendimento e aviação civil. | **Modelagem de DW utilizando Arquitetura Medalha (Bronze, Silver, Gold).** Transformação de dados brutos em camadas refinadas para consultas SQL analíticas de alta performance e agregação estruturada. | **Repositório central de práticas e fundamentos de Engenharia de Dados.** Contém exercícios avançados de SQL (CTEs, Window Functions, MERGE) e scripts estruturados de Python para ETL. |
-
-<br>
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[jdias999](https://github.com/jdias999)&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[jdias999](https://github.com/jdias999)&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
-</p>
