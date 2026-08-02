@@ -10,10 +10,10 @@
 
 <!-- BOTÕES DE CONTATO ESTILO PILL -->
 <p align="center">
-  <a href="[https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/joaovpdias/)">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/joaovpdias/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://github.com/SEU-USUARIO](https://github.com/jdias999)">
+  <a href="https://github.com/SEU-USUARIO](https://github.com/jdias999">
     <img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:jd9198825@gmail.com">
