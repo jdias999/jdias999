@@ -16,7 +16,7 @@
   <a href="https://github.com/jdias999">
     <img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="jd9198825@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmWzBhDBSRbGqfRFbwrvcMZSnTqLtHFJNHkjrzKsRPtZLqvRZvWtBGfhSlnLFVKNGjQtTl">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
