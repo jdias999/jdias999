@@ -57,13 +57,7 @@ Mais do que decorar a sintaxe de ferramentas, meu foco é entender o porquê de 
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=deltalake&logoColor=white" alt="Delta Lake" />
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-</p>
-
-### Cloud (Azure) & Analytics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
-  <img src="https://skillicons.dev/icons?i=azure,powerbi&theme=dark" alt="Azure e Power BI" />
+    <img src="https://skillicons.dev/icons?i=azure,powerbi&theme=dark" alt="Azure e Power BI" />
 </p>
 
 ---
@@ -95,9 +89,3 @@ Repositório onde concentro estudos práticos, laboratórios e implementações 
 Reúne scripts e experimentos com **SQL, Python, consumo de APIs, PySpark, Databricks, Docker e modelagem de dados**.
 
 ---
-
-## Atualmente
-
-Sigo evoluindo na construção de arquiteturas de dados em nuvem cada vez mais próximas de ambientes reais de produção, aprofundando meus estudos em **ecossistema Spark, Databricks, Azure e orquestração de pipelines**.
-
-Estou em busca de uma oportunidade de **Estágio ou Júnior em Engenharia de Dados** para contribuir em projetos reais e continuar evoluindo tecnicamente junto ao time.
