@@ -5,7 +5,6 @@
 
 <p align="center">
   <b>Data Engineering | Python | PySpark | SQL | Azure | Databricks</b><br>
-  <i>Construindo pipelines de dados ponta a ponta para entender, na prática, como dados são extraídos, processados e modelados em nuvem.</i>
 </p>
 
 <p align="center">
@@ -47,7 +46,7 @@ Mais do que decorar a sintaxe de ferramentas, meu foco é entender o porquê de 
 ### Linguagens, Bancos e Infra
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github&theme=dark" alt="Python, PostgreSQL, Docker, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github&theme=dark" alt="Python, PostgreSQL, SQL, Git e GitHub" />
 </p>
 
 ### Data Engineering & Lakehouse
@@ -64,7 +63,6 @@ Mais do que decorar a sintaxe de ferramentas, meu foco é entender o porquê de 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
-  <img src="https://img.shields.io/badge/ADLS_Gen2-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADLS Gen2" />
   <img src="https://skillicons.dev/icons?i=azure,powerbi&theme=dark" alt="Azure e Power BI" />
 </p>
 
