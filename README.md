@@ -11,26 +11,18 @@
   <a href="https://www.linkedin.com/in/joaovpdias/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/jdias999">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
+ 
 ---
 
 ## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Engenharia de Dados**.
 
-Minha base vem do desenvolvimento de software, e hoje direciono meus estudos e projetos para arquitetar todo o ciclo de vida do dado: desde a ingestão via APIs REST e bancos relacionais, passando por processamento distribuído, controle de qualidade e cargas incrementais, até a modelagem dimensional em arquitetura Lakehouse.
-
-Atualmente busco uma oportunidade de **Estágio ou Júnior em Engenharia de Dados / Dados**, onde eu possa aplicar e expandir minha experiência prática com **Python, SQL, PySpark, Databricks e Microsoft Azure**.
+Minha base vem do desenvolvimento de software, e hoje direciono meus estudos e projetos para arquitetar todo o ciclo de vida do dado: desde a ingestão de dados de api e bancos relacionais, passando por processamento distribuído, controle de qualidade e cargas incrementais, até a modelagem dimensional em arquitetura Lakehouse.
 
 ---
 
 ## Foco técnico e conceitos que aplico
-
-Mais do que decorar a sintaxe de ferramentas, meu foco é entender o porquê de cada decisão arquitetural dentro de um pipeline:
 
 - **Processamento e Transformação:** Python, SQL, PySpark e Pandas;
 - **Arquitetura Lakehouse & Medallion:** Construção das camadas Landing, Bronze, Silver e Gold com **Delta Lake** e governança no **Unity Catalog**;
