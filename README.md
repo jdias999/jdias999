@@ -56,7 +56,7 @@ Minha base vem do desenvolvimento de software, e hoje direciono meus estudos e p
 
 ## Projetos em Destaque
 
-### [Data Center Infrastructure, Energy & Environmental Impact — Lakehouse](https://github.com/jdias999/SEU_NOVO_REPOSITORIO_AQUI)
+### [Data Center Infrastructure, Energy & Environmental Impact — Lakehouse](https://github.com/jdias999/https://github.com/jdias999/datacenter-energy-lakehouse)
 
 Pipeline de Engenharia de Dados ponta a ponta na nuvem (**Microsoft Azure**) construído para analisar a relação entre a infraestrutura global de Data Centers, a demanda por eletricidade, a intensidade de carbono da matriz energética e indicadores socioeconômicos dos países.
 
